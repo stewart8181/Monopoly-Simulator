@@ -1,0 +1,40 @@
+Start;0;None;0;Special;Start
+Old Kent Road;1;Brown;60;Property;None
+Community Chest;2;None;0;Special;Chest
+WhiteChapel Road;3;Brown;60;Property;None
+Income Tax;4;None;0;Special;Tax
+Kings Cross Station;5;None;200;Station;None
+The Angel Islington;6;Blue;100;Property;None
+Chance;7;None;0;Special;Chance
+Euston Road;8;Blue;100;Property;None
+Pentonville Road;9;Blue;120;Property;None
+Jail;10;None;0;Special;None
+Pall Mall;11;Pink;140;Property;None
+Electric Company;12;None;150;Utility;None
+Whitehall;13;Pink;140;Property;None
+Northumberland Avenue;14;Pink;160;Property;None
+Marylebone Station;16;None;200;Station;None
+Bow Street;17;Orange;180;Property;None
+Chest;18;None;0;Special;Chest
+Marlborough Street;19;Orange;180;Property;None
+Vine Street;20;Orange;200;Property;None
+Parking;21;None;0;Special;None
+Strand;22;Red;220;Property;None
+Chance;23;None;0;Special;Chance
+Fleet Street;24;Red;220;Property;None
+Trafalgar Square;25;Red;240;Property;None
+Fenchurch St Station;26;None;200;Station;None
+Leicester Square;27;Yellow;260;Property;None
+Coventry Street;28;Yellow;260;Property;None
+Water Company;29;None;150;Utility;None
+Piccadilly;30;Yellow;280;Property;None
+Goto Jail;31;None;0;Special;Arrested
+Regent Street;32;Green;300;Property;None
+Oxford Street;33;Green;300;Property;None
+Chest;34;None;0;Special;Chest
+Bond Street;35;Green;320;Property;None
+Liverpool St Station;36;None;200;Utility;None
+Chance;37;None;0;Special;Chance
+Park Lane;38;Dark Blue;350;Property;None
+Super Tax;39;None;0;Special;SupTax
+Mayfair;40;Dark Blue;400;Property;None
